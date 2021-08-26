@@ -1,0 +1,21 @@
+### Java, Scala, SBT
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.log
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea
+
+# mac
+.DS_Store
+
+# User-specific stuff:
+.idea/workspace.xml
